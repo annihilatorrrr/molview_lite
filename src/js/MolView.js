@@ -366,7 +366,7 @@ var MolView = {
 	 * Wrapper for analytics.js
 	 */
 	pushEvent: function (category, action, label, number) {
-		// MolView Legacy Lite does not track events.
+		// MolView Lite does not track events.
 		console.log(category, action, label, number)
 	},
 

@@ -1,4 +1,4 @@
-// MolView Legacy Lite does not support downloading COD CIFs.
+// MolView Lite does not support downloading COD CIFs.
 var MineralNames = {
 	"records": []
 }

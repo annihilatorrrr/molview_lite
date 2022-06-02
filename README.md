@@ -1,8 +1,8 @@
 MolView Lite
 ============
-This is a stripped-down version of the legacy codebase of MolView.org. In
-particular this version does not require PHP (and thus removes all PHP dependant
-features) or `.htaccess`.
+This is a stripped-down version of the codebase of MolView.org. In particular
+this version does not require PHP (and thus removes all PHP dependant features)
+or `.htaccess`.
 
 Build
 -----
